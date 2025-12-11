@@ -5,7 +5,7 @@ let winner;
 let tie;
 
 
-const squareEls = document.querySelectorAll('.cell');
+const squareEls = document.querySelectorAll('.sqr');
 const messageEl = document.getElementById('message');
 
 init();
